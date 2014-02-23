@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=c\ e
+comment0.target=Set(int,\ int)
+comment1.params=
+comment1.target=int\ getCoef()
+comment2.params=
+comment2.target=int\ getExp()
+numComments=3
