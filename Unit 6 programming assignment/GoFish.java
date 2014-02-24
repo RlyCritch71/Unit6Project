@@ -7,9 +7,9 @@ public class GoFish
         
         Card [] deck = new Card[52];
         
-        loadDeck( deck );
-       
+        loadDeck( deck );  
         
+        //string to string compare
         
         
         

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=deck
+comment0.target=Player(Card[])
+comment1.params=
+comment1.target=boolean\ checkBook()
+comment2.params=
+comment2.target=void\ turn()
+numComments=3
