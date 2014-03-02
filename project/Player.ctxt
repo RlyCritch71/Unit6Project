@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=deck
+comment0.target=Player(Card[])
+comment1.params=
+comment1.target=void\ checkBook()
+comment2.params=
+comment2.target=int\ turn()
+comment3.params=n
+comment3.target=int\ getVal(int)
+comment4.params=
+comment4.target=int\ getSize()
+comment5.params=n
+comment5.target=void\ pRemove(int)
+comment6.params=p\ n
+comment6.target=void\ sAdd(Player,\ int)
+comment7.params=c
+comment7.target=void\ pAdd(Card)
+comment8.params=p\ v
+comment8.target=Card\ getHCard(Player,\ int)
+comment9.params=
+comment9.target=int\ getBook()
+numComments=10
